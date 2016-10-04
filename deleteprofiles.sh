@@ -1,5 +1,5 @@
 #!/bin/bash
-# version 1.0.5
+# version 1.0.6
 # This script will remove inactive accounts in OS X after a predetermined amount of time
 # (currently set at 5 days.) Adjust mtime to change. Exclude 
 
